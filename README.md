@@ -22,3 +22,4 @@
 
 ![Graph of NYC Water Consumption over the Years](https://github.com/ArvindRambahal02/NYC-Water-Consumption/blob/main/NYC_Water_Consumption_Over_Years.png)
 
+![Graph of NYC Population over the Years](https://github.com/ArvindRambahal02/NYC-Water-Consumption/blob/main/NYC_Population_Over_Years.png)

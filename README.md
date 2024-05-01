@@ -20,5 +20,5 @@
 
 - Concluded that NYC’s initiatives to curtail water consumption have proven effective, with average consumption witnessing a consistent decrease across successive decades.
 
-![Graph of NYC Water Consumption over the Years]([image_url](https://github.com/ArvindRambahal02/NYC-Water-Consumption/blob/main/NYC_Water_Consumption_Over_Years.png))
+![Graph of NYC Water Consumption over the Years]((https://github.com/ArvindRambahal02/NYC-Water-Consumption/blob/main/NYC_Water_Consumption_Over_Years.png))
 

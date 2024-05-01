@@ -15,3 +15,4 @@
 
 - Concluded that NYC’s initiatives to curtail water consumption have proven effective, with average consumption witnessing a consistent decrease across successive decades.
 
+![Image Description](image_url)

@@ -8,6 +8,7 @@
 
 ## About Project:
 - Utilized Python and Pandas library to analyze NYC Water Consumption data sourced from the NYC OpenData Portal.
+- Used Pandas library to read in the dataset for analysis. Used CSV API from NYC OpenData Portal.
 - Calculated average water consumption by decade (1980s to 2020s) to identify consumption trends.
 - Determined median water consumption in the 1990s for further insight into historical patterns.
 - Implemented analysis to ascertain if water consumption per capita increased, decreased, or remained stable compared to the previous year.

@@ -1,4 +1,5 @@
 # NYC Water Consumption Over Time (NYC OpenDataPortal)
+- Tools Utilized: Python, Pandas, Spyder IDE
 
 ## About Dataset:
 - https://data.cityofnewyork.us/Environment/Water-Consumption-in-the-City-of-New-York/ia2d-e54m/about_data
@@ -13,3 +14,4 @@
 - Computed total cost per water processing per decade for comprehensive financial assessment.
 
 - Concluded that NYC’s initiatives to curtail water consumption have proven effective, with average consumption witnessing a consistent decrease across successive decades.
+

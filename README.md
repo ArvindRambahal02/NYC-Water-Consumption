@@ -13,6 +13,12 @@
 - Implemented analysis to ascertain if water consumption per capita increased, decreased, or remained stable compared to the previous year.
 - Computed total cost per water processing per decade for comprehensive financial assessment.
 
+## Visualizations:
+- Graphed the NYC water consumption over the years.
+  - Graph clearly shows that the gallons consumed per day decreased over the years.
+- Graph the NYC population over the years
+
 - Concluded that NYC’s initiatives to curtail water consumption have proven effective, with average consumption witnessing a consistent decrease across successive decades.
 
-![Image Description](image_url)
+![Graph of NYC Water Consumption over the Years]([image_url](https://github.com/ArvindRambahal02/NYC-Water-Consumption/blob/main/NYC_Water_Consumption_Over_Years.png))
+

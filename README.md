@@ -15,6 +15,9 @@
 - Computed total cost per water processing per decade for comprehensive financial assessment.
 - Concluded that NYC’s initiatives to curtail water consumption have proven effective, with average consumption witnessing a consistent decrease across successive decades.
 
+## Findings from analysis:
+- Findings are based on NYC Water Consumption Data from the NYC OpenData Portal that were last updated on May 1, 2024.
+
 
 ## Visualizations:
 - Graphed the NYC water consumption over the years.

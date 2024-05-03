@@ -21,6 +21,9 @@
 ![Mean Water Consumption by Decade](https://github.com/ArvindRambahal02/NYC-Water-Consumption/blob/main/mean_water_consumption_by_decade.png)
 
 
+![Water Consumption Per Capita - Increase, Decrease, Stayed the Same](https://github.com/ArvindRambahal02/NYC-Water-Consumption/blob/main/water_capita_per_year.png)
+
+
 ## Visualizations:
 - Graphed the NYC water consumption over the years.
   - Graph clearly shows that the gallons consumed per day decreased over the years.

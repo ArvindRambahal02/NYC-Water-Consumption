@@ -18,6 +18,8 @@
 ## Findings from analysis:
 - Findings are based on NYC Water Consumption Data from the NYC OpenData Portal that were last updated on May 1, 2024.
 
+![Mean Water Consumption by Decade](https://github.com/ArvindRambahal02/NYC-Water-Consumption/blob/main/mean_water_consumption_by_decade.png)
+
 
 ## Visualizations:
 - Graphed the NYC water consumption over the years.
